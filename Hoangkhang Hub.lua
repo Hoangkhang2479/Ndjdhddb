@@ -1,5 +1,4 @@
---[[
-Cảm Ơn Bạn Đã Sử Dụng Dịch Vụ Tiến Tiny Chấm local openshit = Instance.new("ScreenGui")
+local openshit = Instance.new("ScreenGui")
 local mainopen = Instance.new("TextButton")
 local mainopens = Instance.new("UICorner")
 local loki = Instance.new("ImageLabel")
